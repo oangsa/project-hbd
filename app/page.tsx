@@ -11,7 +11,7 @@ export default function Home({ searchParams }: any) {
                 <div>
                     Please insert your name in the params
                     <p className="font-bold text-red-500">
-                        such as &quothttps://url/?name=JohnDoe&quot
+                        such as &quot;https://url/?name=JohnDoe&quot;
                     </p>
                 </div>
             </div>
